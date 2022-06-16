@@ -1,0 +1,13 @@
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\bin\Debug\netcoreapp3.1\Kattis.exe
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\bin\Debug\netcoreapp3.1\Kattis.deps.json
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\bin\Debug\netcoreapp3.1\Kattis.runtimeconfig.json
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\bin\Debug\netcoreapp3.1\Kattis.runtimeconfig.dev.json
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\bin\Debug\netcoreapp3.1\Kattis.dll
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\bin\Debug\netcoreapp3.1\Kattis.pdb
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\obj\Debug\netcoreapp3.1\Kattis.csprojAssemblyReference.cache
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\obj\Debug\netcoreapp3.1\Kattis.AssemblyInfoInputs.cache
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\obj\Debug\netcoreapp3.1\Kattis.AssemblyInfo.cs
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\obj\Debug\netcoreapp3.1\Kattis.csproj.CoreCompileInputs.cache
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\obj\Debug\netcoreapp3.1\Kattis.dll
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\obj\Debug\netcoreapp3.1\Kattis.pdb
+C:\Users\jisho\Desktop\git\Kattis\5 all of them -C#\Kattis\Kattis\obj\Debug\netcoreapp3.1\Kattis.genruntimeconfig.cache

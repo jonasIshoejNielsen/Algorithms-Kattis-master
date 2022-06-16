@@ -1,0 +1,13 @@
+3
+3
+fred1 dinosaur1 3 jets jetsons jil
+fred2 dinosaur1 2 jets jetsons
+fred3 dinosaur1 2 jets jil
+3
+fred1 dinosaur1 3 jets jetsons jil
+fred2 dinosaur2 2 jets jetsons
+fred3 dinosaur3 2 jets jil
+3
+fred1 dinosaur1 3 jets jetsons jil
+fred2 dinosaur1 2 jets jetsons
+fred3 dinosaur3 2 jets jil
